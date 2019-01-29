@@ -1,0 +1,4 @@
+# Word_pic_generation
+word_generation
+何かしらの言葉および画像を入力すると，その言葉および画像に関連した新たな言葉と画像が各最大50個出力されます． 
+Word2Vecを使用し，wikipedia日本語全文データでモデルを構築しています． wiki.pkl はwikipedia日本語全文データモデルを作成したものを使用しています．
